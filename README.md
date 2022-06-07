@@ -15,7 +15,7 @@ Daventy Agency Landing Page is available at github, You can clone it with this c
 
 ```
 // with git
-git clone https://github.com/Guonnie/Daventy-Agency.git
+git clone https://github.com/doks_coders/Daventy-Agency.git
 ```
 
 ## Install Packages
